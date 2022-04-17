@@ -1,1 +1,3 @@
 https://www.kaggle.com/jpmiller/police-violence-in-the-us
+
+- Further Study: WaPo database (it's cited in one of our dataframes)
